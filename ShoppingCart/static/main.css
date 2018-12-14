@@ -1,0 +1,50 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.empty_space {
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.shopping_option {
+    padding-left: 600px;
+}
+
+.shopping_option select{
+    background: #fff;
+    font-size: 14px;
+    border: 2px solid;
+    color: #000;
+    height: 29px;
+    padding: 5px; /* If you add too much padding here, the options won't show in IE */
+    width: 300px;
+}
+
+.rounded {
+    border-radius: 30px;
+}
+
+.shopping_option button {
+    margin-left: 150px; 
+    text-align: center;
+    border-radius: 20px;
+    background: #0e0e0e;
+    color: #fff;
+    font-size: 20px;
+    width: 400px;
+}
+
+.shopping_option a {
+    font-size: 20px;
+    color: #0e0e0e;
+}
+
+.shopping_option a:hover {
+    font-size: 22px;
+    color: navy;
+}
